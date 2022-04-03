@@ -1,0 +1,43 @@
+*{padding: 0px;
+    margin: 0px;}
+
+
+.cover{background-color: cornflowerblue;}
+h2{ 
+color: black;
+text-align: center;
+font-size: xx-large;
+padding-top: 90px;
+
+}
+.container{ 
+height: 498px;
+display: flex;
+align-items: center;
+justify-content: center;}
+
+
+
+.hours, .minutes, .seconds, .amorpm { display: flex;
+    align-items: center;
+background-color: black;
+height: 90px;
+width: 90px; 
+color: white;
+margin: 5px;
+border-radius: 10px;
+text-align: center;
+justify-content: center;
+font-size: x-large;
+}
+
+
+h1{ font-size: larger;
+text-align: center;}
+
+
+
+
+
+
+
